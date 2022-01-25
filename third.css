@@ -1,0 +1,46 @@
+.LOGO {
+  width: 150px;
+  margin: 20px auto;
+}
+body {
+  text-align: center;
+  background-color: rgb(236, 231, 241);
+  font-family: "Roboto", sans-serif;
+}
+.logobody {
+  background-color: rgb(145, 76, 145);
+  width: 800px;
+  padding: 10px 15px;
+  display: inline-block;
+  margin: 20px;
+  color: aliceblue;
+  border: 2px rgb(145, 76, 145);
+  border-radius: 10px;
+}
+li {
+  font-size: 15px;
+  font-weight: normal;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: rgb(240, 239, 240);
+  background-color: rgb(189, 139, 236);
+  border-radius: 10px;
+  padding: 5px;
+}
+a:hover {
+  background-color: cornsilk;
+  color: darkorchid;
+}
+h1 {
+  color: rgb(145, 76, 145);
+}
+p {
+  text-align: left;
+  font-size: 15px;
+  font-weight: normal;
+}
+h3 {
+  text-align: left;
+}

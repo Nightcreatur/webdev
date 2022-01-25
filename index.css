@@ -1,0 +1,109 @@
+body {
+  background-color: rgb(102, 138, 116);
+  text-align: center;
+}
+.hell {
+  background-color: rgb(120, 199, 199);
+  height: 5ex;
+  width: 10ex;
+  border-radius: 15px;
+}
+.hell:hover {
+  background-color: white;
+}
+.hes {
+  color: rgb(6, 51, 8);
+  font-size: 2.5em;
+  background-color: rgb(57, 78, 14);
+}
+/* p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.5em;
+  color: white;
+
+  border-radius: 10px;
+} */
+a {
+  border: none;
+  text-decoration: none;
+}
+#top {
+  color: rgb(240, 232, 234);
+  font-size: 30px;
+  font-weight: bold;
+}
+.rengoku {
+  height: 720px;
+  width: 1280px;
+}
+ol {
+  width: 500px;
+  margin: 36px auto 0px auto;
+  padding: 0;
+}
+li {
+  list-style: none;
+  background-color: rgb(68, 110, 96);
+  border: double rgb(68, 110, 96) 30px;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 2px;
+  font-weight: bold;
+  font-size: 24px;
+  box-shadow: 5px 2px 10px;
+}
+li a {
+  display: block;
+  padding: 8px;
+}
+
+.nnn {
+  text-align: center;
+  font-size: 30px;
+  display: block;
+}
+
+.view {
+  font-size: 24px;
+  background-color: cadetblue;
+  color: white;
+  border: 15px cadetblue;
+  border-radius: 10px;
+  padding: 12px 30px;
+  font-weight: lighter;
+  margin: auto 3px;
+}
+.view:hover {
+  background-color: thistle;
+}
+.secondp {
+  font-family: sans-serif;
+}
+ol {
+  margin: 80px auto;
+}
+p {
+  font-weight: lighter;
+  margin: 40px;
+}
+.secondh {
+  font-size: 60px;
+}
+main {
+  background-color: cornflowerblue;
+  border: solid;
+  width: 620px;
+  margin: 82px auto 20px auto;
+}
+.eye {
+  width: 100px;
+  margin-top: -50px;
+  position: relative;
+}
+.week {
+  font-size: 20px;
+}
+.LOGO {
+  margin-top: 20px;
+  width: 140px;
+}
